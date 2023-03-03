@@ -31,7 +31,7 @@ Firebase: A cloud-based platform for building web and mobile applications.
 ## Contributing
 We welcome contributions from the community. To contribute to the Tasks App, please follow these steps:
 
-Fork this repository.
-Create a new branch for your feature or bug fix.
-Make your changes and commit them to your branch.
-Create a pull request to merge your changes into the main branch of this repository.
+1. Fork this repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them to your branch.
+4. Create a pull request to merge your changes into the main branch of this repository.
